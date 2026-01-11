@@ -11,7 +11,7 @@ The NBA Salary Predictor is a machine learning project that estimates NBA player
 - Random Forest Regression model training using scikit-learn
 - Model performance evaluation using Mean Absolute Error (MAE) and Coefficient of Determination (R-squared)
 
-- ## Tech Stack
+## Tech Stack:
 - **Programming Language:** Python  
 - **Data Manipulation:** Pandas, NumPy  
 - **Data Visualization:** Matplotlib, Seaborn  
