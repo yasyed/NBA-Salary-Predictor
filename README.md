@@ -1,3 +1,5 @@
+## Title: NBA Salary Predictor
+
 
 ## Description:
 The NBA Salary Predictor is a machine learning project that estimates NBA player salaries based on historical player statistics. Raw datasets were collected from basketballreference.com and hoopshype.com, then cleaned, processed, and analyzed using Python. The project demonstrates end-to-end ML workflow, including data extraction, preprocessing, visualization, and model training and evaluation.
